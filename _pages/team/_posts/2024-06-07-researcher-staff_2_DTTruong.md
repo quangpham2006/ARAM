@@ -9,7 +9,7 @@ social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/
     google-scholar: https://scholar.google.com/citations?user=CCQ6CH4AAAAJ&hl=en
-    github: https://github.com/HySonLab/
+    # github: https://github.com/HySonLab/
     website: https://vinuni.edu.vn/vi/people/ts-do-tho-truong/
     orcid: https://orcid.org/0000-0003-1873-9789
     # research-gate: https://www.researchgate.net/
