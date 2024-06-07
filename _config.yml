@@ -20,8 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
   large language models (LLMs) to enhance robot capabilities. Additionally, we are at the forefront of additive manufacturing, exploring new materials, 
   optimizing processes, and creating innovative designs that push the boundaries of what is possible. Join us as we shape the future of technology, making smarter, 
   more adaptable robots and groundbreaking manufacturing solutions.
-baseurl: ""
-url: "https://quangpham2006.github.io/ARAM"
+baseurl: "/ARAM/"
+url: "https://quangpham2006.github.io"
 
 include:
   - .htaccess
