@@ -4,7 +4,7 @@ category: student
 title: Hoang Huy Minh Khoi
 image: Hoang-Huy-Minh-Khoi.jpg
 role: Student
-permalink: '/team/hoang-huy-minh-khoi'
+permalink: /team/hoang-huy-minh-khoi
 social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/

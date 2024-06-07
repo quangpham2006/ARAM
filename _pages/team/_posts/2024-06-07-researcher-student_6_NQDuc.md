@@ -4,7 +4,7 @@ category: student
 title: Nguyen Quy Duc
 image: Nguyen-Quy-Duc.jpg
 role: Student
-permalink: '/team/nguyen-quy-duc'
+permalink: /team/nguyen-quy-duc
 social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/

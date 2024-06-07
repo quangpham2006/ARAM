@@ -4,7 +4,7 @@ category: partner
 title: Professor Thai Mai Thanh
 image: Thai-Mai-Thanh.png
 role: 
-permalink: '/team/thai-mai-thanh'
+permalink: /team/thai-mai-thanh
 social:
     # twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/in/mai-thanh-thai/

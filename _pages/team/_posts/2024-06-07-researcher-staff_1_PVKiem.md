@@ -4,7 +4,7 @@ category: staff
 title: Mr Pham Van Kiem
 image: Pham-Van-Kiem.jpg
 role: Lab Manager
-permalink: '/team/pham-van-kiem'
+permalink: /team/pham-van-kiem
 social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/

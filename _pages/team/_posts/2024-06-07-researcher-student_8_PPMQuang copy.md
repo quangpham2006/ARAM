@@ -4,7 +4,7 @@ category: student
 title: Pham Phuoc Minh Quang
 image: Pham-Phuoc-Minh-Quang.jpg
 role: Student
-permalink: '/team/pham-phuoc-minh-quang'
+permalink: /team/pham-phuoc-minh-quang
 social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/

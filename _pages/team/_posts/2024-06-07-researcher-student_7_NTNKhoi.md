@@ -4,7 +4,7 @@ category: student
 title: Nguyen Tiet Nguyen Khoi
 image: Nguyen-Tiet-Nguyen-Khoi.jpg
 role: Student
-permalink: '/team/nguyen-tiet-nguyen-khoi'
+permalink: /team/nguyen-tiet-nguyen-khoi
 social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/

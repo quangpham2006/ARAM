@@ -4,7 +4,7 @@ category: student
 title: Nguyen Hoang Hieu
 image: Nguyen-Hoang-Hieu.jpg
 role: Student/Phet Thu
-permalink: '/team/nguyen-hoang-hieu'
+permalink: /team/nguyen-hoang-hieu
 social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/

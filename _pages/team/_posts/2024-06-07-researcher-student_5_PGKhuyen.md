@@ -4,7 +4,7 @@ category: student
 title: Pham Gia Khuyen
 image: Pham-Gia-Khuyen.jpg
 role: Student
-permalink: '/team/pham-gia-khuyen'
+permalink: /team/pham-gia-khuyen
 social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/
