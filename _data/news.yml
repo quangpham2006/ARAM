@@ -3,7 +3,7 @@
   tags:
     - some
     - tags
-  content: Congratulation <a href="{{site.baseurl}}/team/pham-gia-khuyen"> Pham Gia Khuyen</a>  for receiving Master of Science in Robotics admission at University of Pennsylvania
+  content: Congratulation <a href="{{ site.url }}{{ site.baseurl }}/team/pham-gia-khuyen"> Pham Gia Khuyen</a>  for receiving Master of Science in Robotics admission at University of Pennsylvania
 
 
 - date: 23/03/24
@@ -11,13 +11,13 @@
   tags:
     - some
     - tags
-  content: Congratulation <a href="{{site.baseurl}}/team/pham-phuoc-minh-quang"> Pham Phuoc Minh Quang</a>  for receiving Aerospace PhD, majoring in robotics admission, MEng in Autonomy and Robotics admission at University of Illinois Urbana Champaign, and Master of Science in Robotics admission at MBZUAI. 
+  content: Congratulation <a href="{{ site.url }}{{ site.baseurl }}/team/pham-phuoc-minh-quang"> Pham Phuoc Minh Quang</a>  for receiving Aerospace PhD, majoring in robotics admission, MEng in Autonomy and Robotics admission at University of Illinois Urbana Champaign, and Master of Science in Robotics admission at MBZUAI. 
 
 - date: 05/01/24
   title: Congratulations to Nguyen Quang Hung on being accepted to graduate school
   tags:
     - some
     - tags
-  content: Congratulation <a href="{{site.baseurl}}/team/nguyen-quang-hung"> Nguyen Quang Hung</a>  for receiving Master of Science in Mechanical Engineering admission at University of Queensland
+  content: Congratulation <a href="{{ site.url }}{{ site.baseurl }}/team/nguyen-quang-hung"> Nguyen Quang Hung</a>  for receiving Master of Science in Mechanical Engineering admission at University of Queensland
 
 
