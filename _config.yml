@@ -6,13 +6,21 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Research Lab
-email: your-email@domain.com
+
+# description: > # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+title: ARAM Lab
+email: quangpham200602@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: ""
+  The ARAM (Autonomous Robots and Additive Manufacturing) Research Lab is a pioneering hub at the intersection of robotics and additive manufacturing. 
+  Our mission is to advance the field of autonomous systems and revolutionize manufacturing processes through cutting-edge research and innovation. 
+  We specialize in developing intelligent robotic systems with a focus on perception, path planning, scene understanding, control, and the application of 
+  large language models (LLMs) to enhance robot capabilities. Additionally, we are at the forefront of additive manufacturing, exploring new materials, 
+  optimizing processes, and creating innovative designs that push the boundaries of what is possible. Join us as we shape the future of technology, making smarter, 
+  more adaptable robots and groundbreaking manufacturing solutions.
+baseurl: "ARAM"
 url: ""
 
 include:

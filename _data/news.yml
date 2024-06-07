@@ -1,15 +1,4 @@
-- date: 05/09/19
-  title: "Another great thing"
-  tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
-
-- date: 03/09/19
+- date: 05/06/24
   title: "Something great"
   tags:
     - some
@@ -19,3 +8,14 @@
     Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
     urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
     duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+    
+- date: 23/03/24
+  title: Congratulations to Pham Phuoc Minh Quang on being accepted to graduate school
+  tags:
+    - some
+    - tags
+  content: Congratulation <a href="{{ site.baseurl }}team/pham-phuoc-minh-quang"> Pham Phuoc Minh Quang</a>  for receiving Aerospace PhD, majoring in robotics admission, MEng in Autonomy and Robotics at University of Illinois Urbana Champaign, and Master of Science in Robotics at MBZUAI. 
+
+
+
+

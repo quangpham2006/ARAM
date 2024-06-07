@@ -8,8 +8,41 @@ permalink: /research/
 
 # Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat duis ultricies. Commodo viverra maecenas accumsan lacus vel. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Pellentesque sit amet porttitor eget dolor morbi non. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Id aliquet risus feugiat in. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Sapien pellentesque habitant morbi tristique. Sapien eget mi proin sed libero enim. Viverra vitae congue eu consequat ac felis donec.
+<h1>Introduction to Our Research</h1>
+<p>In the rapidly advancing field of Electric Vehicles (EVs), battery technology plays a crucial role in determining vehicle performance, safety, and sustainability. As a leading player in the EV industry, VinFast is dedicated to producing state-of-the-art EVs and their essential battery systems. However, the complex and varied procedures involved in battery testing, such as vibration, deformation, water immersion, and electrical integrity, pose significant challenges. Traditional manual and semi-automated testing methods expose human operators to potential hazards, including chemical exposure and thermal runaway, compromising safety and efficiency.</p>
+<p>To address these challenges, our research introduces <strong>BattBot</strong>, an innovative collaborative mobile robot specifically designed for battery testing laboratories. BattBot aims to revolutionize safety protocols and enhance testing efficiency by integrating advanced robotics into VinFast's battery testing operations. Unlike fully autonomous robots, collaborative robots like BattBot are designed to work alongside human operators, performing repetitive and precise tasks to ensure consistent testing conditions and improve the reliability of testing outcomes.</p>
 
-Mauris vitae ultricies leo integer malesuada. Vulputate ut pharetra sit amet aliquam id diam maecenas. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Et tortor at risus viverra adipiscing at in. Urna nunc id cursus metus aliquam eleifend. Massa tincidunt dui ut ornare lectus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Enim diam vulputate ut pharetra sit. Facilisi cras fermentum odio eu feugiat pretium. Commodo elit at imperdiet dui accumsan sit amet nulla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Vivamus at augue eget arcu dictum varius duis. Faucibus pulvinar elementum integer enim neque volutpat. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
+<h2>Research Methods</h2>
+<p>Our approach to developing BattBot involves several advanced methodologies:</p>
 
-Cras adipiscing enim eu turpis. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Sed lectus vestibulum mattis ullamcorper velit. Ut faucibus pulvinar elementum integer. Mattis nunc sed blandit libero volutpat sed cras ornare. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Risus nullam eget felis eget nunc lobortis mattis. In tellus integer feugiat scelerisque varius morbi enim. Eget nunc lobortis mattis aliquam faucibus purus in. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Augue neque gravida in fermentum et sollicitudin ac orci. Id donec ultrices tincidunt arcu non. Pharetra et ultrices neque ornare aenean euismod. Purus faucibus ornare suspendisse sed. Nibh tellus molestie nunc non blandit massa enim. Non diam phasellus vestibulum lorem sed risus. Vel eros donec ac odio tempor orci dapibus ultrices in. Libero id faucibus nisl tincidunt.
+<h3>Development of the BattBot Platform</h3>
+<ul>
+    <li><strong>Design and Engineering</strong>: Creation of a unicycle-like mobile robot platform equipped with a robotic arm and various sensors for accurate manipulation of battery cells.</li>
+    <li><strong>Safety Features</strong>: Implementation of features to ensure the robot can safely operate in close proximity to human operators, including collision avoidance and force detection.</li>
+</ul>
+
+<h3>Understanding User Queries and Environmental Context</h3>
+<ul>
+    <li><strong>Natural Language Processing (NLP)</strong>: Development of algorithms to interpret user commands and translate them into actionable tasks.</li>
+    <li><strong>Environmental Sensing</strong>: Integration of vision sensors (e.g., RGB and depth cameras) and other modalities (e.g., laser, inertial sensors) to understand the 3D surroundings and dynamically respond to changes.</li>
+</ul>
+
+<h3>Advanced Control Algorithms</h3>
+<ul>
+    <li><strong>Reinforcement Learning</strong>: Application of machine learning techniques to enable the robot to learn optimal actions through trial and error, improving task performance over time.</li>
+    <li><strong>Graph Representation</strong>: Use of graph-based models to represent the workspace and plan efficient paths for the robot, ensuring precise navigation and manipulation.</li>
+</ul>
+
+<h3>Integration and Testing</h3>
+<ul>
+    <li><strong>Simulation and Real-World Testing</strong>: Initial development and testing in simulated environments, followed by real-world deployment in VinFast’s battery testing centers.</li>
+    <li><strong>Iterative Improvement</strong>: Continuous feedback and iterative enhancements based on testing outcomes to refine robot performance and safety measures.</li>
+</ul>
+
+<h3>Collaboration and Knowledge Transfer</h3>
+<ul>
+    <li><strong>Interdisciplinary Collaboration</strong>: Leveraging the expertise of team members from VinUniversity, Indiana State University, and Hanoi University of Science and Technology.</li>
+    <li><strong>Educational Initiatives</strong>: Establishment of a modern robotic lab at VinUniversity to support ongoing research and education in robotics, fostering future innovations in Vietnam.</li>
+</ul>
+
+
