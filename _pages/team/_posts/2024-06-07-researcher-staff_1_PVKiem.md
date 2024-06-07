@@ -16,7 +16,7 @@ social:
 education:
     - Hanoi University of Science and Technology
     - University of Communication and Transport
-    - Eckert Schulen
+    
 #  - 2018 PhD, Mechanical Engineering, Michigan State University, USA
 #  - 2010 MSc, Mechanical Engineering, Polytechnic University of Catalonia, Barcelona, Spain
 #  - 2009 MSc, Mechanical Engineering, National Institute of Applied Sciences of Lyon, France
