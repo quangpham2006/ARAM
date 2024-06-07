@@ -4,7 +4,7 @@ category: partner
 title: Professor Hy Truong Son
 image: Hy_Truong_Son.png
 role: 
-permalink: 'team/hy-truong-son'
+permalink: '/team/hy-truong-son'
 social:
     # twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/in/hy-truong-son-4a9185b6/

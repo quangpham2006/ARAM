@@ -4,7 +4,7 @@ category: student
 title: Ngo Chi Lan
 image: Ngo-Chi-Lan.jpg
 role: Bao Thu
-permalink: 'team/ngo-chi-lan'
+permalink: '/team/ngo-chi-lan'
 social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/

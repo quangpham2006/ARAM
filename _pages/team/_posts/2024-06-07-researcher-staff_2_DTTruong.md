@@ -4,7 +4,7 @@ category: staff
 title: Professor Do Tho Truong
 image: Prof_Truong.png
 role: Lab Director
-permalink: 'team/do-tho-truong'
+permalink: '/team/do-tho-truong'
 social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/

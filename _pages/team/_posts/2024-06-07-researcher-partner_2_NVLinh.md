@@ -4,7 +4,7 @@ category: partner
 title: Professor Nguyen Vu Linh
 image: Nguyen-Vu-Linh.png
 role: 
-permalink: 'team/nguyen-vu-linh'
+permalink: '/team/nguyen-vu-linh'
 social:
     # twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/in/vu-linh-nguyen-058b11162/

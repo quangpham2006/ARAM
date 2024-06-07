@@ -4,7 +4,7 @@ category: student
 title: Pham Trung Kien
 image: Pham-Trung-Kien.jpg
 role: Student
-permalink: 'team/pham-trung-kien'
+permalink: '/team/pham-trung-kien'
 social:
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/
