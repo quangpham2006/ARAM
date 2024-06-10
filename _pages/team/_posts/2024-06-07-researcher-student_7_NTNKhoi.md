@@ -18,4 +18,4 @@ education:
 
 ---
 
-Thich Anime
+Machine learning, data analytics, data science
