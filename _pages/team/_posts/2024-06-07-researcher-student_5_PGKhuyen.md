@@ -7,7 +7,7 @@ role: Student
 permalink: /team/pham-gia-khuyen
 social:
     # twitter: https://twitter.com/
-    # linkedin: https://www.linkedin.com/
+    linkedin: https://www.linkedin.com/in/giakhuyen/
     # google-scholar: https://scholar.google.fr/
     # github: https://github.com/
     # website:
@@ -19,4 +19,4 @@ education:
 
 ---
 
-Thich Anime
+I'm currently a Mechanical Engineering student at VinUniversity.
