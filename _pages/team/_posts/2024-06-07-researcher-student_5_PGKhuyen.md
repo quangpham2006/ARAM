@@ -15,7 +15,7 @@ social:
     # research-gate: https://www.researchgate.net/
 education:
  - 2021-2025 Undergraduate at VinUniversity, Hanoi, Vietnam
- - 2024-2026 Master in Robotics at University of Pennsylvania,Pennsylvania, US
+#  - 2024-2026 Master in Robotics at University of Pennsylvania,Pennsylvania, US
 
 ---
 
