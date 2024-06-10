@@ -14,7 +14,7 @@ social:
     # orcid: https://orcid.org/
     # research-gate: https://www.researchgate.net/
 education:
- - 2019-2025 Mechatronic engineering at Ha Noi University of Science and Technology
+ - 2018-2023 Mechatronic engineering at Ha Noi University of Science and Technology
 
 
 
