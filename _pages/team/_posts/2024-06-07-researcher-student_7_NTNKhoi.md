@@ -18,4 +18,4 @@ education:
 
 ---
 
-Machine learning, data analytics, data science
+Scalable LLMs, Robustness of Transformers, Adversarial Attacks on Object Detection, Scene Graph Generation
