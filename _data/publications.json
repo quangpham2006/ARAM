@@ -2,36 +2,40 @@
 	{
 		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
 		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
+		"title": "ESGNN - Towards Equivariant Scene Graph Neural Network for 3D Scene Understanding",
+		"container-title": "IEEE International Symposium on Robot and Human Interactive Communication 2024",
 		"page": "448-459",
 		"volume": "38",
 		"issue": "2",
 		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
+		"abstract": "Scene graphs have been proven to be useful for various scene understanding tasks due to their compact and explicit nature. However, existing approaches often neglect the importance of maintaining the symmetry-preserving property when generating scene graphs from 3D point clouds. This oversight can diminish the accuracy and robustness of the resulting scene graphs, especially when handling noisy, multi-view 3D data. This work, to the best of our knowledge, is the first to implement an Equivariant Graph Neural Network in semantic scene graph generation from 3D point clouds for scene understanding. Our proposed method, ESGNN, outperforms existing state-of-the-art approaches, demonstrating a significant improvement in scene estimation with faster convergence. ESGNN demands low computational resources and is easy to implement from available frameworks, paving the way for real-time applications such as robotics and computer vision.",
 		"DOI": "10.1109/TMI.2018.2865709",
 		"author": [
 			{
-				"family": "Naylor",
-				"given": "P."
+				"family": "Pham",
+				"given": "Q."
 			},
 			{
-				"family": "Laé",
-				"given": "M."
+				"family": "Nguyen",
+				"given": "K."
 			},
 			{
-				"family": "Reyal",
-				"given": "F."
+				"family": "Ngo",
+				"given": "L."
 			},
 			{
-				"family": "Walter",
+				"family": "Do",
 				"given": "T."
+			},
+			{
+				"family": "Hy",
+				"given": "S."
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2019",
+					"2024",
 					2
 				]
 			]
