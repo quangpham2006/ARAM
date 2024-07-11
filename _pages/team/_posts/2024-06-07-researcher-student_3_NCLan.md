@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: former
 title: Ngo Chi Lan
 image: Ngo-Chi-Lan.jpg
 role: Student
