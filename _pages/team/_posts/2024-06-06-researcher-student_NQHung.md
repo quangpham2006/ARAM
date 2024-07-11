@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: former
 title: Nguyen Quang Hung
 image: Nguyen-Quang-Hung.jpg
 role: Student
