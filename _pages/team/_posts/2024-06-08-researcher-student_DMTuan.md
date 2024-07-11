@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: former
 title: Dam Minh Tuan
 image: Dam-Minh-Tuan.jpg
 role: Student
